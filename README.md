@@ -1,5 +1,3 @@
-# Auto_link-ExB_widget
-
 # 📘 Auto Link Widget for ArcGIS Experience Builder
 
 This widget automatically redirects specific users to a predefined link when they open the application — no UI, no buttons, just smooth logic.
