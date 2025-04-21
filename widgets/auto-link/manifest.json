@@ -15,7 +15,6 @@
     "width": 10,
     "height": 10
   },
-  "main": "src/runtime/widget.tsx",
   "supportInlineEditing": false,
   "properties": {}
 }
