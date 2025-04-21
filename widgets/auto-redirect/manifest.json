@@ -1,6 +1,6 @@
 {
-  "name": "auto-link",
-  "label": "Auto Link",
+  "name": "auto-redirect",
+  "label": "Auto Redirect",
   "type": "widget",
   "version": "1.17.0",
   "exbVersion": "1.17.0",
